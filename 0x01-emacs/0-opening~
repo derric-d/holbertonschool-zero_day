@@ -1,0 +1,1 @@
+outside of emacs, you can open a file in emacs with ´emacs file ´ and inside emacs, C-x C-f + filename will find existing file or else create it by file name
